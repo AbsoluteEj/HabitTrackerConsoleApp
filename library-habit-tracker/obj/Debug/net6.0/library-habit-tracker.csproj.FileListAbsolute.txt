@@ -1,0 +1,12 @@
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\bin\Debug\net6.0\library-habit-tracker.deps.json
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\bin\Debug\net6.0\library-habit-tracker.dll
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\bin\Debug\net6.0\library-habit-tracker.pdb
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\obj\Debug\net6.0\library-habit-tracker.csproj.AssemblyReference.cache
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\obj\Debug\net6.0\library-habit-tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\obj\Debug\net6.0\library-habit-tracker.AssemblyInfoInputs.cache
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\obj\Debug\net6.0\library-habit-tracker.AssemblyInfo.cs
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\obj\Debug\net6.0\library-habit-tracker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\obj\Debug\net6.0\library-habit-tracker.dll
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\obj\Debug\net6.0\refint\library-habit-tracker.dll
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\obj\Debug\net6.0\library-habit-tracker.pdb
+C:\Users\DELL\VSCode Repos\habit-tracker\library-habit-tracker\obj\Debug\net6.0\ref\library-habit-tracker.dll

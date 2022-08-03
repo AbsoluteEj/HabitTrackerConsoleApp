@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UI-habit-tracker/1.0.0": {
+        "dependencies": {
+          "library-habit-tracker": "1.0.0"
+        },
+        "runtime": {
+          "UI-habit-tracker.dll": {}
+        }
+      },
+      "library-habit-tracker/1.0.0": {
+        "runtime": {
+          "library-habit-tracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UI-habit-tracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "library-habit-tracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

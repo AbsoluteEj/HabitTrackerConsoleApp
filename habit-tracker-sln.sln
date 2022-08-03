@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI-habit-tracker", "UI-habit-tracker\UI-habit-tracker.csproj", "{AFB7EB48-62C6-4FD3-97E5-29AF44A88F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library-habit-tracker", "library-habit-tracker\library-habit-tracker.csproj", "{B671396F-B95C-4C7F-9894-DF8366E751CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB7EB48-62C6-4FD3-97E5-29AF44A88F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB7EB48-62C6-4FD3-97E5-29AF44A88F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB7EB48-62C6-4FD3-97E5-29AF44A88F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB7EB48-62C6-4FD3-97E5-29AF44A88F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B671396F-B95C-4C7F-9894-DF8366E751CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B671396F-B95C-4C7F-9894-DF8366E751CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B671396F-B95C-4C7F-9894-DF8366E751CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B671396F-B95C-4C7F-9894-DF8366E751CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
